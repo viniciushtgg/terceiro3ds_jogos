@@ -19,5 +19,5 @@ def escolhe_jogo():
 #Só executa esta parte quando
 # é executado pelo próprio arquivo,
 # ou seja, no jogos.py
-if (__name__ == "__main"):
+if (__name__ == "__main__"):
     escolhe_jogo()
